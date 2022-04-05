@@ -2,4 +2,4 @@
 
 CSS/HTML
 
-Taking use of the grid to practise creating unique layouts
+Using the grid to practise creating unique layouts
